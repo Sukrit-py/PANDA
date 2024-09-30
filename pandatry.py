@@ -51,10 +51,10 @@ dataframe = pd.DataFrame({
 
 
 client = clickhouse_connect.get_client(
-    host='msc-40815370.us-east-1.aws.myscale.com',
-    port=443,
-    username='panda24_org_default',
-    password='passwd_ED9MwOxjl3UDDY'
+    host='',
+    port= ,
+    username='',
+    password=''
 )
 
 
