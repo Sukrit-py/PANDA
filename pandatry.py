@@ -7,7 +7,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyBs9cwT4lLz-wLOAs4zVRlPIoT_FpDJPbY"
+os.environ["GEMINI_API_KEY"] = "api"
 
 
 
